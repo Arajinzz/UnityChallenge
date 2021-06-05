@@ -2,7 +2,7 @@
 
 
 ## Game Assets
-URP is used for better visuals.\
+**URP is used for better visuals.**\
 All Sprites are made within unity using only Basic shapes (Circle and Square). Materials, animations are all made inside unity, everything is made inside unity with exception to soundtracks.
 
 
@@ -20,9 +20,12 @@ Each time you hit an enemy you gain +5 to your score\
 Each time you get hit you lose 5 from your score\
 If Score < 0 you lose\
 Your own projectile can bounce and hit you\
-When you get hit a pushback is applied restricting your movements for 0.2 seconds.\
+When you get hit a pushback is applied restricting your movements for 0.2 seconds.
 
 
 ## Additional Infos
-The game is funtional in Android except for movements.
+The game is funtional in Android except for movements.\
+URP is used\
+
+**Video :** https://youtu.be/iEKxc-JI9ag
 
