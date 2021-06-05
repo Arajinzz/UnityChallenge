@@ -25,7 +25,7 @@ When you get hit a pushback is applied restricting your movements for 0.2 second
 
 ## Additional Infos
 The game is funtional in Android except for movements.\
-URP is used\
+URP is used
 
 **Video :** https://youtu.be/iEKxc-JI9ag
 
