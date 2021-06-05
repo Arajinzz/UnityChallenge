@@ -2,7 +2,7 @@
 
 
 ## Game Assets
-URP is used for better visuals.//
+URP is used for better visuals.\
 All Sprites are made within unity using only Basic shapes (Circle and Square). Materials, animations are all made inside unity, everything is made inside unity with exception to soundtracks.
 
 
