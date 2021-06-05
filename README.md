@@ -15,12 +15,12 @@ WASD or Arrow keys to move Player, Mouse left click to shoot a projectile, and r
 
 
 ## Rules
-**If you hit an enemy 3 times he dies**
-Each time you hit an enemy you gain +5 to your score
-Each time you get hit you lose 5 from your score
-If Score < 0 you lose
-Your own projectile can bounce and hit you
-When you get hit a pushback is applied restricting your movements for 0.2 seconds.
+**If you hit an enemy 3 times he dies**\
+Each time you hit an enemy you gain +5 to your score\
+Each time you get hit you lose 5 from your score\
+If Score < 0 you lose\
+Your own projectile can bounce and hit you\
+When you get hit a pushback is applied restricting your movements for 0.2 seconds.\
 
 
 ## Additional Infos
