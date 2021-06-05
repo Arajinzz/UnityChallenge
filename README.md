@@ -7,7 +7,7 @@ All Sprites are made within unity using only Basic shapes (Circle and Square). M
 
 
 ## Idea
-The game idea is time slows down when you don't move, and time will be back to normal when you move, the goal is to eliminate all enemies.
+The game idea is time slows down when you don't move, and time will be back to normal when you move, the goal is to eliminate all enemies using time mechanics to your adventage.
 
 
 ## Controls
