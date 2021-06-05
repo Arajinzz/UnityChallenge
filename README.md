@@ -25,7 +25,8 @@ When you get hit a pushback is applied restricting your movements for 0.2 second
 
 ## Additional Infos
 The game is funtional in Android except for movements.\
-URP is used
+URP is used.\
+**Unity Version used is 2020.3.10f1**
 
 **Video :** https://youtu.be/iEKxc-JI9ag
 
